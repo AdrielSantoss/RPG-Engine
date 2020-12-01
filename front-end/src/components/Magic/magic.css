@@ -1,0 +1,45 @@
+.magic-container{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.magic-card{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 10px;
+    font-size: 15pt;
+    color: white ;
+    font-weight: 700;
+    background-color: rgb(26, 26, 31);
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.473);
+    margin-bottom: 20px;
+}
+.magic-card-header{
+    width: 90%;
+    padding: 10px;
+    font-size: 15pt;
+    color: white ;
+    font-weight: 700;
+    background-color: rgb(26, 26, 31);
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.473);
+    margin-bottom: 20px;
+}
+.header-card{
+    font-size: 10pt;
+}
+.content-card{
+    font-size: 18pt;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.card-main{
+    display: flex;
+    flex-direction: column;
+
+}
+
