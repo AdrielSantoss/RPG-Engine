@@ -17,7 +17,7 @@ export default function Magic() {
                </div>
                <div className="card-main">
                     <span className="header-card">Bônus de ataque</span>
-                    <span className="teste">0</span>
+                    <span >0</span>
                </div>
            </div>
        </div>
