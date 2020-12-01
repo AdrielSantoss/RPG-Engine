@@ -27,3 +27,33 @@
 .skills div{
     margin-right: 10px;
 }
+.skills-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#skill-card-header{
+    margin-bottom:0px;
+ 
+}
+#skill-card{
+    background-color: rgb(19, 19, 22);
+    font-size: 12pt;
+    margin-bottom:0px;
+    border: 1px solid black;
+
+}
+#skill-card-last{
+    background-color: rgb(19, 19, 22);
+    font-size: 12pt;
+    margin-bottom:20px;
+    border: 1px solid black;
+
+}
+.skill-itens input {
+    margin-right: 10px;
+}
+.skill-value{
+    margin-right: 10px;
+}
