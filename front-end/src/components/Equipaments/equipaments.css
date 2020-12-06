@@ -1,0 +1,14 @@
+.equipaments{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.backpack{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.backpack span{
+    margin-left:10px;
+}

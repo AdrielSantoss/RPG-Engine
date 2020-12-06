@@ -1,0 +1,33 @@
+.characteristics{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.photo{
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.photo-opts{
+    opacity: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.226);
+    width: 100%;
+    height:80px;
+    margin-top: 220px;
+    font-size: 18pt;
+    color: purple;
+    font-weight: 700;
+    transition: 0.5s;
+}
+.photo:hover .photo-opts{
+    opacity: 1;
+}
